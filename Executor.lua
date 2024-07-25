@@ -869,7 +869,7 @@ TitleLabel.BorderSizePixel = 0
 TitleLabel.Position = UDim2.new(0, 40, 0, 50)
 TitleLabel.Size = UDim2.new(0, 150, 0, 25)
 TitleLabel.Font = Enum.Font.GothamBold
-TitleLabel.Text = "Alexis 1.0"
+TitleLabel.Text = "Alexis 1.0.0"
 TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TitleLabel.TextSize = 12.000
 TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
@@ -1138,7 +1138,7 @@ ImageLabel_5.BorderSizePixel = 0
 ImageLabel_5.Position = UDim2.new(0.5, 0, 0.5, 0)
 ImageLabel_5.Size = UDim2.new(0.699999988, 0, 0.699999988, 0)
 ImageLabel_5.ZIndex = 11
-ImageLabel_5.Image = "http://www.roblox.com/asset/?id=15861930865"
+ImageLabel_5.Image = "http://www.roblox.com/asset/?id=18589489566"
 
 DragTouch.Name = "DragTouch"
 DragTouch.Parent = VegaXMenuToggleFrame
@@ -2166,7 +2166,7 @@ local function SNQJ_fake_script() -- VegaXAndroidUI.EverythingElse
 	end)
 	
 	-- Executor Window Tabbing System
-	
+
 	local scriptamt = 1
 	local listamt = 1
 	local scripts = {""}
